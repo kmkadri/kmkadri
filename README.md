@@ -8,6 +8,7 @@
 
 <h2>📄 Certifications</h2>
 
+-  [Bloomberg Market Concepts](https://drive.google.com/file/d/1vGuUCgGP68FQ3qYdwAVc5s2TNOMjE4vB/view)
 
 <h2> 🤳 Connect with me:</h2>
 
