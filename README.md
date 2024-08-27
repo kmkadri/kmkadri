@@ -1,4 +1,4 @@
-<h1>Hi, I'm Khalid! <br/><a href="https://github.com/kmkadri">Data Analyst</a>
+<h1>Hi, I'm Khalid! 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - [Data Cleaning with SQL](https://github.com/kmkadri/SQL-Data-Cleaning-Project)
