@@ -6,7 +6,7 @@
 - [BigQuery + Power BI project](https://github.com/kmkadri/An-End-To-End-Project-BigQuery-Power-BI)
 
 
-<h2>📄 certifications</h2>
+<h2>📄 Certifications</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
