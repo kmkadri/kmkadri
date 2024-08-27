@@ -8,6 +8,7 @@
 - [Retailers Coca-Cola Products Analysis an Excel Project](https://github.com/kmkadri/Excel-Project)
 - [BigQuery + Power BI project](https://github.com/kmkadri/An-End-To-End-Project-BigQuery-Power-BI)
 - [F1 2018: Hamilton vs Vettel Performance Analysis](https://github.com/kmkadri/F1-2018-Hamilton-vs-Vettel-Performance-Analysis)
+- [A Comparative Analysis of Decision Tree and Naive Bayes Algorithms](https://github.com/kmkadri/A-Comparative-Analysis-of-Decision-Tree-and-Naive-Bayes-Algorithms)
 
 
 <h2>📄 Certifications</h2>
