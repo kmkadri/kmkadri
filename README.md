@@ -7,6 +7,7 @@
 - [Data Cleaning with SQL](https://github.com/kmkadri/SQL-Data-Cleaning-Project)
 - [Retailers Coca-Cola Products Analysis an Excel Project](https://github.com/kmkadri/Excel-Project)
 - [BigQuery + Power BI project](https://github.com/kmkadri/An-End-To-End-Project-BigQuery-Power-BI)
+- [F1 2018: Hamilton vs Vettel Performance Analysis](https://github.com/kmkadri/F1-2018-Hamilton-vs-Vettel-Performance-Analysis)
 
 
 <h2>📄 Certifications</h2>
