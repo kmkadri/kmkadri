@@ -16,10 +16,13 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="KhalidKadri | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KhalidKadri | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/X_icon.svg" />][X]
+
 
 
 
 [linkedin]: https://linkedin.com/in/khalidkadri
+[X]: https://x.com/kmkadri_
 
 <!--
 **kmkadri/kmkadri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
