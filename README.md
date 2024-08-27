@@ -1,4 +1,7 @@
 <h1>Hi, I'm Khalid! 
+
+</h2> i am a Dynamic and analytical professional with a passion for turning data into actionable insights. With experience in product management, strategic analysis, and customer relations across fintech and cutting-edge technology sectors, I excel at using data to drive business success. My expertise in Excel and data visualisation has consistently optimised strategies, enhanced customer experiences, and led to successful product launches.  Seeking to transition into a Data Analyst role where I can apply my skills to uncover insights and support data-driven decision-making.
+  
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - [Data Cleaning with SQL](https://github.com/kmkadri/SQL-Data-Cleaning-Project)
