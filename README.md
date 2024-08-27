@@ -9,6 +9,7 @@
 - [BigQuery + Power BI project](https://github.com/kmkadri/An-End-To-End-Project-BigQuery-Power-BI)
 - [F1 2018: Hamilton vs Vettel Performance Analysis](https://github.com/kmkadri/F1-2018-Hamilton-vs-Vettel-Performance-Analysis)
 - [A Comparative Analysis of Decision Tree and Naive Bayes Algorithms](https://github.com/kmkadri/A-Comparative-Analysis-of-Decision-Tree-and-Naive-Bayes-Algorithms)
+- [Global Bike Sales: Visual Analytics and Regional Comparison](https://github.com/kmkadri/Global-Bike-Sales-Visual-Analytics-and-Regional-Comparison)
 
 
 <h2>📄 Certifications</h2>
