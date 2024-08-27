@@ -1,8 +1,9 @@
 <h1>Hi, I'm Khalid! <br/><a href="https://github.com/kmkadri">Data Analyst</a>
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice </b>
-  - 
+- [Data Cleaning with SQL](https://github.com/kmkadri/SQL-Data-Cleaning-Project)
+- [Retailers Coca-Cola Products Analysis an Excel Project](https://github.com/kmkadri/Excel-Project)
+- [BigQuery + Power BI project](https://github.com/kmkadri/An-End-To-End-Project-BigQuery-Power-BI)
 
 
 <h2>📄 certifications</h2>
