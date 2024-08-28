@@ -6,7 +6,7 @@
 
 I am Khalid Kadri, a dynamic and analytical professional passionate about turning data into actionable insights. With a strong background in product management, strategic analysis, and customer relations within fintech and cutting-edge technology sectors, I excel at using data to drive business success. My expertise in data analysis, visualization, and machine learning has consistently optimized strategies, enhanced customer experiences, and led to successful product launches.
 
-## 🔧 Technical Skills
+## 🔧 Technical Skills:
 
 - **Programming Languages**: Python and SQL
 - **Data Analysis & Visualization**: Excel, Power BI, Tableau, Pandas, Matplotlib, Seaborn
@@ -16,7 +16,7 @@ I am Khalid Kadri, a dynamic and analytical professional passionate about turnin
 - **Tools**: Git, Jupyter Notebook, phyton
 
   
-## 💼 Projects:
+## 📊 Featured Projects:
 
 - [Data Cleaning with SQL](https://github.com/kmkadri/SQL-Data-Cleaning-Project)
 - [Retailers Coca-Cola Products Analysis an Excel Project](https://github.com/kmkadri/Excel-Project)
