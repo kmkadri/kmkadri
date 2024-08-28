@@ -10,6 +10,7 @@
 - [F1 2018: Hamilton vs Vettel Performance Analysis](https://github.com/kmkadri/F1-2018-Hamilton-vs-Vettel-Performance-Analysis)
 - [A Comparative Analysis of Decision Tree and Naive Bayes Algorithms](https://github.com/kmkadri/A-Comparative-Analysis-of-Decision-Tree-and-Naive-Bayes-Algorithms)
 - [Global Bike Sales: Visual Analytics and Regional Comparison](https://github.com/kmkadri/Global-Bike-Sales-Visual-Analytics-and-Regional-Comparison)
+- [Comparative Performance Analysis of Data Caching Techniques in Distributed Systems](https://github.com/kmkadri/Comparative-Performance-Analysis-of-Data-Caching-Techniques-in-Distributed-Systems)
 
 
 <h2>📄 Certifications</h2>
