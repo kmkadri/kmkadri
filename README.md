@@ -27,11 +27,32 @@ I am Khalid Kadri, a dynamic and analytical professional passionate about turnin
 - [Comparative Performance Analysis of Data Caching Techniques in Distributed Systems](https://github.com/kmkadri/Comparative-Performance-Analysis-of-Data-Caching-Techniques-in-Distributed-Systems)
 
 
-<h2>📄 Certifications</h2>
+## 📈 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kmkadri&layout=compact&theme=radical)
 
--  [Bloomberg Market Concepts](https://drive.google.com/file/d/1vGuUCgGP68FQ3qYdwAVc5s2TNOMjE4vB/view)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kmkadri&theme=radical)
 
-## 📫 Connect with me:
+
+
+## 🏆 Achievements
+
+-  **Certificate**:[Bloomberg Market Concepts](https://drive.google.com/file/d/1vGuUCgGP68FQ3qYdwAVc5s2TNOMjE4vB/view)
+-  **Awards**: Best Team Award at Hastings Direct (2018) - Recognized for outstanding customer service and team collaboration.
+
+### ⚡ Fun Fact
+
+I love exploring the intersection of technology and finance, and I’m always on the lookout for the next big trend in data science!
+
+---
+
+Thanks for visiting my GitHub portfolio! Feel free to explore my projects and connect with me.
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kmkadri&color=blue)
+
+
+
+
+## 📫 Contact Me:
 
 
 [<img align="left" alt="KhalidKadri | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
@@ -42,7 +63,6 @@ I am Khalid Kadri, a dynamic and analytical professional passionate about turnin
 [Email]: mailto:kmkadri10@gmail.com
 [LinkedIn]: https://linkedin.com/in/khalidkadri
 [X]: https://x.com/kmkadri_
-
 
 
 <!--
