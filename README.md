@@ -1,6 +1,6 @@
 # Khalid Kadri - Data Analyst
 
-![Profile Banner](https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8)
+![Profile Banner](https://github.com/kmkadri/Semester-2-INM427-Neural-C/blob/main/Banner.png)
 
 ## 👋 About Me
 
