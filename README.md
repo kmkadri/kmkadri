@@ -1,6 +1,6 @@
 # Khalid Kadri - Data Analyst
 
-![Profile Banner](https://github.com/kmkadri/Semester-2-INM427-Neural-C/blob/main/Banner.png)
+![Profile Banner](https://github.com/kmkadri/kmkadri/blob/main/Banner.png)
 
 ## 👋 About Me
 
